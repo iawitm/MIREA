@@ -1,0 +1,10 @@
+﻿Some text
+     in
+         this
+ file
+now
+    we
+will   
+       add
+more
+--------------------------------------------
